@@ -1,0 +1,48 @@
+
+> timeline-component-assignment@1.0.0 build-storybook
+> storybook build --output-dir=C:\Users\Dell\AppData\Local\Temp\chromatic--5968-EoSY720G9lcZ
+
+[1m@storybook/core v8.6.14
+[22m
+info => Cleaning outputDir: [36mC:\Users\Dell\AppData\Local\Temp\chromatic--5968-EoSY720G9lcZ[39m
+info => Loading presets
+info => Building manager..
+info => Manager built ([38;2;181;126;229m293 ms[39m)
+info => Building preview..
+WARN No story files found for the specified pattern: [34msrc\**\*.mdx[39m
+info Using tsconfig paths for react-docgen
+[36mvite v6.0.11 [32mbuilding for production...[36m[39m
+transforming...
+[32m✓[39m 107 modules transformed.
+rendering chunks...
+computing gzip size...
+[2mC:/Users/Dell/AppData/Local/Temp/chromatic--5968-EoSY720G9lcZ/[22m[32miframe.html                               [39m[1m[2m 17.78 kB[22m[1m[22m[2m │ gzip:   5.00 kB[22m
+[2mC:/Users/Dell/AppData/Local/Temp/chromatic--5968-EoSY720G9lcZ/[22m[36massets/preview-ecOKyxp7.js                [39m[1m[2m  0.15 kB[22m[1m[22m[2m │ gzip:   0.15 kB[22m
+[2mC:/Users/Dell/AppData/Local/Temp/chromatic--5968-EoSY720G9lcZ/[22m[36massets/preview-NEoZ8N1F.js                [39m[1m[2m  0.16 kB[22m[1m[22m[2m │ gzip:   0.16 kB[22m
+[2mC:/Users/Dell/AppData/Local/Temp/chromatic--5968-EoSY720G9lcZ/[22m[36massets/preview-CvbIS5ZJ.js                [39m[1m[2m  0.18 kB[22m[1m[22m[2m │ gzip:   0.16 kB[22m
+[2mC:/Users/Dell/AppData/Local/Temp/chromatic--5968-EoSY720G9lcZ/[22m[36massets/index-BqIVwv1J.js                  [39m[1m[2m  0.42 kB[22m[1m[22m[2m │ gzip:   0.27 kB[22m
+[2mC:/Users/Dell/AppData/Local/Temp/chromatic--5968-EoSY720G9lcZ/[22m[36massets/preview-DHQbi4pV.js                [39m[1m[2m  0.61 kB[22m[1m[22m[2m │ gzip:   0.42 kB[22m
+[2mC:/Users/Dell/AppData/Local/Temp/chromatic--5968-EoSY720G9lcZ/[22m[36massets/chunk-XP5HYGXS-BpfKkqn7.js         [39m[1m[2m  0.71 kB[22m[1m[22m[2m │ gzip:   0.40 kB[22m
+[2mC:/Users/Dell/AppData/Local/Temp/chromatic--5968-EoSY720G9lcZ/[22m[36massets/preview-DGUiP6tS.js                [39m[1m[2m  0.71 kB[22m[1m[22m[2m │ gzip:   0.50 kB[22m
+[2mC:/Users/Dell/AppData/Local/Temp/chromatic--5968-EoSY720G9lcZ/[22m[36massets/index-DrFu-skq.js                  [39m[1m[2m  0.77 kB[22m[1m[22m[2m │ gzip:   0.47 kB[22m
+[2mC:/Users/Dell/AppData/Local/Temp/chromatic--5968-EoSY720G9lcZ/[22m[36massets/react-18-DhYtmn9h.js               [39m[1m[2m  0.89 kB[22m[1m[22m[2m │ gzip:   0.50 kB[22m
+[2mC:/Users/Dell/AppData/Local/Temp/chromatic--5968-EoSY720G9lcZ/[22m[36massets/preview-J66GIv2Q.js                [39m[1m[2m  0.89 kB[22m[1m[22m[2m │ gzip:   0.57 kB[22m
+[2mC:/Users/Dell/AppData/Local/Temp/chromatic--5968-EoSY720G9lcZ/[22m[36massets/jsx-runtime-BO8uF4Og.js            [39m[1m[2m  1.00 kB[22m[1m[22m[2m │ gzip:   0.62 kB[22m
+[2mC:/Users/Dell/AppData/Local/Temp/chromatic--5968-EoSY720G9lcZ/[22m[36massets/preview-DD_OYowb.js                [39m[1m[2m  3.51 kB[22m[1m[22m[2m │ gzip:   1.69 kB[22m
+[2mC:/Users/Dell/AppData/Local/Temp/chromatic--5968-EoSY720G9lcZ/[22m[36massets/preview-B8lJiyuQ.js                [39m[1m[2m  5.06 kB[22m[1m[22m[2m │ gzip:   1.88 kB[22m
+[2mC:/Users/Dell/AppData/Local/Temp/chromatic--5968-EoSY720G9lcZ/[22m[36massets/TimelineView.stories-D9ea8XfX.js   [39m[1m[2m  6.50 kB[22m[1m[22m[2m │ gzip:   2.03 kB[22m
+[2mC:/Users/Dell/AppData/Local/Temp/chromatic--5968-EoSY720G9lcZ/[22m[36massets/index-D4H_InIO.js                  [39m[1m[2m  7.33 kB[22m[1m[22m[2m │ gzip:   2.96 kB[22m
+[2mC:/Users/Dell/AppData/Local/Temp/chromatic--5968-EoSY720G9lcZ/[22m[36massets/preview-BWzBA1C2.js                [39m[1m[2m  7.62 kB[22m[1m[22m[2m │ gzip:   1.56 kB[22m
+[2mC:/Users/Dell/AppData/Local/Temp/chromatic--5968-EoSY720G9lcZ/[22m[36massets/preview-BBWR9nbA.js                [39m[1m[2m  8.12 kB[22m[1m[22m[2m │ gzip:   3.10 kB[22m
+[2mC:/Users/Dell/AppData/Local/Temp/chromatic--5968-EoSY720G9lcZ/[22m[36massets/test-utils-F46mfGnS.js             [39m[1m[2m 13.04 kB[22m[1m[22m[2m │ gzip:   5.08 kB[22m
+[2mC:/Users/Dell/AppData/Local/Temp/chromatic--5968-EoSY720G9lcZ/[22m[36massets/Color-YHDXOIA2-DkwdAYFs.js         [39m[1m[2m 29.34 kB[22m[1m[22m[2m │ gzip:  11.05 kB[22m
+[2mC:/Users/Dell/AppData/Local/Temp/chromatic--5968-EoSY720G9lcZ/[22m[36massets/entry-preview-Bww2XOIK.js          [39m[1m[2m 29.76 kB[22m[1m[22m[2m │ gzip:   9.52 kB[22m
+[2mC:/Users/Dell/AppData/Local/Temp/chromatic--5968-EoSY720G9lcZ/[22m[36massets/index-cS34vJOP.js                  [39m[1m[2m 57.15 kB[22m[1m[22m[2m │ gzip:  16.28 kB[22m
+[2mC:/Users/Dell/AppData/Local/Temp/chromatic--5968-EoSY720G9lcZ/[22m[36massets/index-lNKyaXCZ.js                  [39m[1m[2m134.21 kB[22m[1m[22m[2m │ gzip:  43.17 kB[22m
+[2mC:/Users/Dell/AppData/Local/Temp/chromatic--5968-EoSY720G9lcZ/[22m[36massets/iframe-D5I9xmTq.js                 [39m[1m[2m207.82 kB[22m[1m[22m[2m │ gzip:  71.63 kB[22m
+[2mC:/Users/Dell/AppData/Local/Temp/chromatic--5968-EoSY720G9lcZ/[22m[36massets/entry-preview-docs-hd9G6mTE.js     [39m[1m[2m244.67 kB[22m[1m[22m[2m │ gzip:  73.42 kB[22m
+[2mC:/Users/Dell/AppData/Local/Temp/chromatic--5968-EoSY720G9lcZ/[22m[36massets/index-DqxVLU6x.js                  [39m[1m[33m662.08 kB[39m[22m[2m │ gzip: 156.67 kB[22m
+[2mC:/Users/Dell/AppData/Local/Temp/chromatic--5968-EoSY720G9lcZ/[22m[36massets/DocsRenderer-CFRXHY34-BmDGmWqB.js  [39m[1m[33m889.48 kB[39m[22m[2m │ gzip: 275.89 kB[22m
+[32m✓ built in 7.02s[39m
+info => Preview built ([38;2;181;126;229m8.36 s[39m)
+info => Output directory: C:\Users\Dell\AppData\Local\Temp\chromatic--5968-EoSY720G9lcZ
